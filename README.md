@@ -13,5 +13,6 @@ This design is a parametric led driven lamp that be customized with different si
 # authors
 
 PCB design: [@fluepke](https://github.com/fluepke)
-Industrial design [@kryptokommunist](https://github.com/kryptokommunist)
+
+Industrial design: [@kryptokommunist](https://github.com/kryptokommunist)
 
