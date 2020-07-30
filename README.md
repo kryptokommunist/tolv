@@ -6,8 +6,6 @@ This design is a parametric led driven lamp that be customized with different si
 
 ![Technical drawing 2](/images/tolv_technical_drawing_2.jpg)
 
-![Technical drawing 3](/images/tolv_technical_drawing_2.jpg)
-
 ![Transparent 3D model view](/images/tolv_transparent.jpg)
 
 # authors
